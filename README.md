@@ -7,7 +7,7 @@ Modern industrial environments demand increasingly agile and efficient Automated
 ## Team Members
 
 - Adam Mulac
-- Dylan Elkins
+- Dylan "the goat"Elkins
 - Nick Ragan
 - Zachary Keepers
 
