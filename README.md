@@ -5,15 +5,11 @@
 Modern industrial environments demand increasingly agile and efficient Automated Guided Vehicles (AGVs) to optimize material handling and logistics. This project addresses the need for enhanced maneuverability and precision in AGVs through the implementation of a swerve drive system, coupled with autonomous navigation capabilities, specifically tailored for inventory management tasks.
 
 ## Team Members
-
+Seniors at the Alabama School of Cyber Technology and Engineering
 - Adam Mulac
 - Dylan Elkins
 - Nick Ragan
 - Zachary Keepers
-
-## School
-
-Alabama School of Cyber Technology and Engineering
 
 ## Project Overview
 
